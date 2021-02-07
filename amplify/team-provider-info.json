@@ -10,6 +10,11 @@
       "StackName": "amplify-locationmaps-dev-163841",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:865422985541:stack/amplify-locationmaps-dev-163841/81415980-6917-11eb-aeae-0a326cc6f6b0",
       "AmplifyAppId": "d1h878o7did8z6"
+    },
+    "categories": {
+      "auth": {
+        "locationmapsa2069879": {}
+      }
     }
   }
 }
