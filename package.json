@@ -11,6 +11,7 @@
     "aws-amplify": "^3.3.17",
     "aws-sdk": "^2.839.0",
     "core-js": "^3.6.5",
+    "mapbox-gl": "^1.0.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
